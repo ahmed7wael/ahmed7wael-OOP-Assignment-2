@@ -1,0 +1,15 @@
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.AssemblyInfoInputs.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.AssemblyInfo.cs
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.csproj.CoreCompileInputs.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.sourcelink.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\bin\Debug\net10.0\Solution.exe
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\bin\Debug\net10.0\Solution.deps.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\bin\Debug\net10.0\Solution.runtimeconfig.json
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\bin\Debug\net10.0\Solution.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\bin\Debug\net10.0\Solution.pdb
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\refint\Solution.dll
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.pdb
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\Solution.genruntimeconfig.cache
+D:\Simualtion\ahmed7wael-OOP-Assignment-2\Solution\Solution\obj\Debug\net10.0\ref\Solution.dll
